@@ -3026,7 +3026,7 @@ a.arrow:before {
 }
 
 .gallery a.landscape img {
-  height: 25vw;
+  height: 40vw;
 }
 
 .gallery a.portrait img {
@@ -3496,7 +3496,7 @@ ul.feature-icons li:nth-child(2) {
 }
 
 #wrapper > section > .content > section > header {
-  width: 48rem;
+  width: 45rem;
 }
 
 #wrapper > section.intro > header:before {
